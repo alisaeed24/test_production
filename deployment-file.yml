@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: test
-          image: alisaeed23369/test-app:latest
+          image: alisaeed23369/test-app:1.0.0-33
           ports:
             - containerPort: 80
